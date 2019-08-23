@@ -4,7 +4,6 @@ import java.awt.event.*;
 
 public class AppletEx10_button extends Applet implements ActionListener{
 
-	//CheckboxGroup cg;
 	Button clk,clr;
 	String msg;
 	public void init()

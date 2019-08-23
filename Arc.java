@@ -13,5 +13,4 @@ public class Arc extends Applet{
 		g.fillArc(100,100,100,100,0,180);
 		
 	}
-	//<applet code="Arc.class" height="400" width="400"></applet>
 }
